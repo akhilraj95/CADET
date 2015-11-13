@@ -1,0 +1,9 @@
+D:\Projects\Cadet_DesktopApp\Cadet_DesktopApp\bin\Debug\Cadet_DesktopApp.exe.config
+D:\Projects\Cadet_DesktopApp\Cadet_DesktopApp\bin\Debug\Cadet_DesktopApp.exe
+D:\Projects\Cadet_DesktopApp\Cadet_DesktopApp\bin\Debug\Cadet_DesktopApp.pdb
+D:\Projects\Cadet_DesktopApp\Cadet_DesktopApp\obj\Debug\Cadet_DesktopApp.csprojResolveAssemblyReference.cache
+D:\Projects\Cadet_DesktopApp\Cadet_DesktopApp\obj\Debug\Cadet_DesktopApp.Form1.resources
+D:\Projects\Cadet_DesktopApp\Cadet_DesktopApp\obj\Debug\Cadet_DesktopApp.Properties.Resources.resources
+D:\Projects\Cadet_DesktopApp\Cadet_DesktopApp\obj\Debug\Cadet_DesktopApp.csproj.GenerateResource.Cache
+D:\Projects\Cadet_DesktopApp\Cadet_DesktopApp\obj\Debug\Cadet_DesktopApp.exe
+D:\Projects\Cadet_DesktopApp\Cadet_DesktopApp\obj\Debug\Cadet_DesktopApp.pdb
